@@ -9,7 +9,7 @@ export const ProductWrapper = styled.div`
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: transform 0.2s ease-in-out;
-
+  padding:16px;
   &:hover {
     transform: translateY(-4px);
   }
