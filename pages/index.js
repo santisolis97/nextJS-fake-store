@@ -10,7 +10,7 @@ export default function About() {
     data && (
       <PageWrapper>
         <Title>Our Products</Title>
-        <ProductGrid products={undefined} />
+        <ProductGrid products={data} />
       </PageWrapper>
     )
   );

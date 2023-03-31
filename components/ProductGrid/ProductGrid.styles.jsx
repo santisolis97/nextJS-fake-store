@@ -9,6 +9,18 @@ const spin = keyframes`
   }
 `;
 
+export const ProductSearch = styled.div`
+  margin-bottom: 2rem;
+  width:100%;
+  input {
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+`;
+
 export const Spinner = styled.div`
   display: inline-block;
   width: 32px;
