@@ -27,13 +27,25 @@ You can check out the live demo of this project at [https://nextjs-fake-store.ve
 To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/santisolis97/nextJS-fake-store.git
+
+```bash
+git clone https://github.com/santisolis97/nextJS-fake-store.git
+```
+
 2. Navigate into the project directory:
+
+```bash
    cd nextJS-fake-store
+```
+
 3. Install the dependencies:
+   ```bash
    npm install
+   ```
 4. Start the development server:
+   ```bash
    npm run dev
+   ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
 
 ## Technologies
